@@ -30,7 +30,7 @@ Realizar una filogenia con IQtree
 
 --- 
 ## RESULTADOS 
-[Filogenia Tucán](/Users/martinjoy/Desktop/proyectofinal/filogenia.png)
+![Filogenia Tucán](https://github.com/MartinMorocho/TUCANES/blob/main/filogenia.png?raw=true)
 
 ---
 ## DISCUSIÓN
